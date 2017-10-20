@@ -24,10 +24,10 @@ export default {
       {test: /\.css$/, loaders: ['style-loader','css-loader']}
     ]
   },
-  resolve: {
+/*   resolve: {
     extensions: ['', '.js', '.jsx', '.css'],
-    modulesDirectories: [
+    modulesDirectory: [
       'node_modules'
     ]        
-}
+} */
 }
