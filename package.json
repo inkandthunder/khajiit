@@ -25,7 +25,9 @@
     "url": "https://github.com/inkandthunder/ps-js-dev-env/issues"
   },
   "homepage": "https://github.com/inkandthunder/ps-js-dev-env#readme",
-  "dependencies": {},
+  "dependencies": {
+    "whatwg-fetch": "^2.0.3"
+  },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
