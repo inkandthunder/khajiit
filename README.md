@@ -1,5 +1,9 @@
 # JavaScript Development Environment Sandbox
 
+## Description
+
+Boilerplate JS Environment with Webpack, Travis, Babel, and Appveyor based on the build by [coryhouse](https://github.com/coryhouse/javascript-development-environment).
+
 ## Status
 |System|Status|
 |--|--|
