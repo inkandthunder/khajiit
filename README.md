@@ -2,7 +2,7 @@
 
 ### Description
 
-This is a personal-use generic Javascript development environment boilerplate.
+:cat: This is a personal-use generic Javascript development environment boilerplate.
 
 ### Status
 |System|Status|
